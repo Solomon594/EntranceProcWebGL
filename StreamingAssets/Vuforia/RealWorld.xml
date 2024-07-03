@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tvbox" size="6.000000 3.852105" />
+    <ImageTarget name="entrance" size="6.000000 7.506531" />
+  </Tracking>
+</QCARConfig>
